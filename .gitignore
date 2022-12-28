@@ -12,7 +12,7 @@
 /build
 
 # generated
-#/src/gen
+/src/gen
 
 # disable webStorm config files
 .idea
