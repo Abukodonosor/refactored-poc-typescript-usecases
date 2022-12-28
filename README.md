@@ -1,4 +1,4 @@
-# Getting Started with `EDPEM` project POC
+# Getting Started with refactoring `POC` project
 
 ## Development scripts
 
@@ -97,7 +97,7 @@ Tree overview of the project file structure
 ## Preferred libs:
 
 - Material UI (use just one implementation of it instead of 3)
-- Redux/Context for globalStates
+- Context for globalStates
 - ReactQuery or Fetcher (browser native implementation) API layer
 - Business logic will be placed inside useCase folder (DDD and Clean Architecture)
 - React dependency injection (for bussines logic and api layer)
