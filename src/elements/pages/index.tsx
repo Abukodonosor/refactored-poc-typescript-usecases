@@ -1,0 +1,10 @@
+export { LoginPage } from './LoginPage';
+export { DashboardPage } from './DashboardPage';
+export { MonitoringPage } from './MonitoringPage';
+export { MonitoringDetailsPage } from './MonitoringDetailsPage';
+export { SearchPage } from './SearchPage';
+export { HelpPage } from './HelpPage';
+export { NotFoundPage } from './NotFoundPage';
+export { UserSettingsPage } from './UserSettingsPage';
+export { StatisticsPage } from './StatisticsPage';
+export { ReportsPage } from './ReportsPage';
